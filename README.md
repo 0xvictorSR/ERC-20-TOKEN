@@ -1,7 +1,7 @@
-Deploys your GoofyGoober token
+Deploy your GoofyGoober token
 
-Deploys the Spender contract
+Deploy the Spender contract
 
-Approves the Spender to pull tokens
+Approve the Spender to pull tokens
 
-Calls poolTokens() to transfer tokens into the Spender contract
+Call poolTokens() to transfer tokens into the Spender contract
